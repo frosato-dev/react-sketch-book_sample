@@ -5,7 +5,7 @@ This is an example of how to use [react-sketch-book](https://github.com/frosato-
 ### Run the app
 
 ```
-yarn start
+npm start
 ```
 
 ### Build the Sketch Book
